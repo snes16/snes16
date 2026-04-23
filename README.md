@@ -1,8 +1,5 @@
 <h1 align="center">snes16</h1>
 
-<p align="center">
-  building calm things with code
-</p>
 
 <p align="center">
   <picture>
